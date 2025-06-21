@@ -116,6 +116,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
-**Desenvolvido por:** [Seu Nome]  
-**Contato:** [seu.email@example.com]  
-**LinkedIn:** [link para o seu perfil]
+**Desenvolvido por:** [Jefferson Ferreira]  
+**Contato:** [jfrancaferreira10@gmail.com]  
+**LinkedIn:** [https://www.linkedin.com/in/jefferson-ferreira-ds/]
